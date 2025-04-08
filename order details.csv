@@ -1,0 +1,501 @@
+Order ID,Order Date,CustomerName,State,City,,Amount,Profit,Quantity,Category,Product Name,,Customer ID,payment_type,,Discount,Postal Code,Total Sales
+B-25601,1/4/2018,Bharat,Gujarat,Ahmedabad,,1275,-1148,2,Furniture,Bookcases,,CG-12520,credit_card,,0,42420,261.96
+B-25602,1/4/2018,Pearl,Maharashtra,Pune,,66,-12,1,Clothing,Stole,,CG-12521,credit_card,,0,42420,731.94
+B-25603,3/4/2018,Jahan,Madhya Pradesh,Bhopal,,20,-2,3,Clothing,Hankerchief,,DV-13045,credit_card,,0,90036,14.62
+B-25604,3/4/2018,Divsha,Rajasthan,Jaipur,,500,-56,4,Electronics,Electronic Games,,SO-20335,credit_card,,0.45,33311,957.5775
+B-25605,5/4/2018,Kasheen,West Bengal,Kolkata,,20000,-111,2,Electronics,Phones,,SO-20335,credit_card,,0.2,33311,22.368
+B-25606,6/4/2018,Hazel,Karnataka,Bangalore,,25000,-272,5,Electronics,Phones,,BH-11710,credit_card,,0,90032,48.86
+B-25607,6/4/2018,Sonakshi,Jammu and Kashmir,Kashmir,,15000,1151,4,Electronics,Phones,,BH-11710,credit_card,,0,90032,7.28
+B-25608,8/4/2018,Aarushi,Tamil Nadu,Chennai,,561,212,3,Clothing,Saree,,BH-11710,credit_card,,0.2,90032,907.152
+B-25609,9/4/2018,Jitesh,Uttar Pradesh,Lucknow,,1250,-5,8,Clothing,Saree,,BH-11710,credit_card,,0.2,90032,18.504
+B-25610,9/4/2018,Yogesh,Bihar,Patna,,1355,-60,5,Clothing,Trousers,,BH-11710,credit_card,,0,90032,114.9
+B-25611,11/4/1018,Anita,Kerala ,Thiruvananthapuram,,500,-30,1,Furniture,Chairs,,BH-11710,credit_card,,0.2,90032,1706.184
+B-25612,12/4/2018,Shrichand,Punjab,Chandigarh,,1933,-166,3,Clothing,Saree,,BH-11710,credit_card,,0.2,90032,911.424
+B-25613,12/4/2018,Mukesh,Haryana,Chandigarh,,180,5,3,Clothing,Trousers,,AA-10480,credit_card,,0.2,28027,15.552
+B-25614,13-04-2018,Vandana,Himachal Pradesh,Simla,,116,16,4,Clothing,Stole,,IM-15070,credit_card,,0.2,98103,407.976
+B-25615,15-04-2018,Bhavna,Sikkim,Gangtok,,107,36,6,Clothing,Stole,,HP-14815,credit_card,,0.8,76106,68.81
+B-25616,15-04-2018,Kanak,Goa,Goa,,20,1,2,Clothing,Hankerchief,,HP-14815,credit_card,,0.8,76106,2.544
+B-25617,17-04-2018,Sagar,Nagaland,Kohima,,380,18,1,Clothing,Kurti,,PK-19075,credit_card,,0,53711,665.88
+B-25618,18-04-2018,Manju,Andhra Pradesh,Hyderabad,,650,17,2,Clothing,T-shirt,,AG-10270,credit_card,,0,84084,55.5
+B-25619,18-04-2018,Ramesh,Gujarat,Ahmedabad,,1500,5,9,Clothing,Saree,,ZD-21925,credit_card,,0,94109,8.56
+B-25620,20-04-2018,Sarita,Maharashtra,Pune,,750,0,7,Clothing,Saree,,ZD-21925,credit_card,,0.2,94109,213.48
+B-25621,20-04-2018,Deepak,Madhya Pradesh,Bhopal,,400,4,2,Clothing,Shirt,,ZD-21925,credit_card,,0.2,94109,22.72
+B-25622,22-04-2018,Monisha,Rajasthan,Jaipur,,200,15,4,Clothing,Leggings,,KB-16585,credit_card,,0,68025,19.46
+B-25623,22-04-2018,Atharv,West Bengal,Kolkata,,1364,-1864,5,Furniture,Tables,,KB-16585,credit_card,,0,68025,60.34
+B-25624,22-04-2018,Vini,Karnataka,Bangalore,,476,0,3,Furniture,Chairs,,SF-20065,credit_card,,0.3,19140,71.372
+B-25625,23-04-2018,Pinky,Jammu and Kashmir,Kashmir,,30,23,5,Clothing,Hankerchief,,EB-13870,credit_card,,0,84057,1044.63
+B-25626,23-04-2018,Bhishm,Maharashtra,Mumbai,,856,385,6,Electronics,Printers,,EH-13945,credit_card,,0.2,90049,11.648
+B-25627,23-04-2018,Hitika,Madhya Pradesh,Indore,,485,29,4,Electronics,Electronic Games,,EH-13945,credit_card,,0,90049,90.57
+B-25628,24-04-2018,Pooja,Bihar,Patna,,800,-5,4,Clothing,Saree,,TB-21520,credit_card,,0.5,19140,3083.43
+B-25629,24-04-2018,Hemant,Kerala ,Thiruvananthapuram,,1076,-38,4,Electronics,Printers,,TB-21520,credit_card,,0.7,19140,9.618
+B-25630,24-04-2018,Sahil,Punjab,Chandigarh,,107,-54,4,Clothing,Stole,,TB-21520,credit_card,,0.2,19140,124.2
+B-25631,24-04-2018,Ritu,Haryana,Chandigarh,,68,-55,5,Electronics,Accessories,,TB-21520,credit_card,,0.2,19140,3.264
+B-25632,25-04-2018,Manish,Himachal Pradesh,Simla,,781,-594,6,Electronics,Printers,,TB-21520,credit_card,,0.2,19140,86.304
+B-25633,26-04-2018,Amit,Sikkim,Gangtok,,4530,0,3,Clothing,Saree,,TB-21520,credit_card,,0.7,19140,6.858
+B-25634,26-04-2018,Sanjay,Goa,Goa,,1500,-5,2,Furniture,Furnishings,,TB-21520,credit_card,,0.2,19140,15.76
+B-25635,26-04-2018,Nidhi,Nagaland,Kohima,,1420,-59,2,Clothing,Saree,,MA-17560,credit_card,,0.2,77095,29.472
+B-25636,26-04-2018,Nishi,Maharashtra,Mumbai,,350,-55,2,Furniture,Chairs,,GH-14485,credit_card,,0.2,75080,1097.544
+B-25637,26-04-2018,Ashmi,Madhya Pradesh,Indore,,1603,0,9,Clothing,Saree,,GH-14485,credit_card,,0.6,75080,190.92
+B-25638,26-04-2018,Parth,Maharashtra,Pune,,494,54,4,Furniture,Bookcases,,SN-20710,credit_card,,0.2,77041,113.328
+B-25639,27-04-2018,Lisha,Madhya Pradesh,Bhopal,,956,-12,2,Electronics,Electronic Games,,SN-20710,credit_card,,0.32,77041,532.3992
+B-25640,27-04-2018,Paridhi,Rajasthan,Jaipur,,50,20,5,Clothing,Hankerchief,,SN-20710,credit_card,,0.3,77041,212.058
+B-25641,27-04-2018,Parishi,West Bengal,Kolkata,,30,12,5,Clothing,Hankerchief,,SN-20710,credit_card,,0.2,77041,371.168
+B-25642,28-04-2018,Ajay,Karnataka,Bangalore,,116,-56,5,Clothing,Stole,,LC-16930,credit_card,,0.2,60540,147.168
+B-25643,29-04-2018,Kirti,Jammu and Kashmir,Kashmir,,22,-2,3,Clothing,Hankerchief,,RA-19885,credit_card,,0,90049,77.88
+B-25644,30-04-2018,Mayank,Maharashtra,Mumbai,,14,-2,3,Clothing,Hankerchief,,ES-14080,credit_card,,0.2,32935,95.616
+B-25645,1/5/2018,Yaanvi,Madhya Pradesh,Indore,,305,-270,5,Electronics,Electronic Games,,ON-18715,credit_card,,0,55122,45.98
+B-25646,1/5/2018,Sonal,Bihar,Patna,,362,127,1,Furniture,Bookcases,,ON-18715,credit_card,,0,55122,17.46
+B-25647,3/5/2018,Sharda,Kerala ,Thiruvananthapuram,,12,0,2,Clothing,Hankerchief,,PO-18865,credit_card,,0,48185,211.96
+B-25648,4/5/2018,Aditya,Punjab,Chandigarh,,353,90,8,Clothing,Saree,,LH-16900,credit_card,,0,19901,45
+B-25649,5/5/2018,Rachna,Haryana,Chandigarh,,900,46,1,Electronics,Printers,,LH-16900,credit_card,,0,19901,21.8
+B-25650,6/5/2018,Chirag,Maharashtra,Mumbai,,685,-10,5,Electronics,Electronic Games,,DP-13000,credit_card,,0,47150,38.22
+B-25651,7/5/2018,Anurag,Madhya Pradesh,Indore,,450,63,3,Electronics,Electronic Games,,DP-13000,credit_card,,0,47150,75.18
+B-25652,8/5/2018,Tushina,Goa,Goa,,30000,-15,3,Electronics,Phones,,DP-13000,credit_card,,0,47150,6.16
+B-25653,8/5/2018,Farah,Nagaland,Kohima,,2500,0,3,Clothing,Saree,,DP-13000,credit_card,,0,47150,89.99
+B-25654,10/5/2018,Sabah,Maharashtra,Mumbai,,53,1,4,Clothing,Stole,,JM-15265,credit_card,,0,10024,15.26
+B-25655,11/5/2018,Nida,Madhya Pradesh,Indore,,158,69,3,Clothing,Stole,,JM-15265,credit_card,,0,10024,1029.95
+B-25656,11/5/2018,Priyanka,Maharashtra,Pune,,830,-87,4,Clothing,Saree,,TB-21055,credit_card,,0,12180,208.56
+B-25657,13-05-2018,Tulika,Madhya Pradesh,Bhopal,,105,20,2,Clothing,Stole,,TB-21055,credit_card,,0,12180,32.4
+B-25658,14-05-2018,Shefali,Rajasthan,Jaipur,,26,12,3,Clothing,Hankerchief,,TB-21055,credit_card,,0.1,12180,319.41
+B-25659,15-05-2018,Sanskriti,West Bengal,Kolkata,,97,29,2,Clothing,Hankerchief,,TB-21055,credit_card,,0,12180,14.56
+B-25660,16-05-2018,Shruti,Karnataka,Bangalore,,59,30,3,Clothing,Leggings,,TB-21055,credit_card,,0,12180,30
+B-25661,17-05-2018,Subhashree,Jammu and Kashmir,Kashmir,,635,-349,5,Clothing,Saree,,TB-21055,credit_card,,0.2,12180,48.48
+B-25662,17-05-2018,Sweta,Maharashtra,Mumbai,,5000,-14,1,Electronics,Phones,,TB-21055,credit_card,,0,12180,1.68
+B-25663,19-05-2018,Pournamasi,Madhya Pradesh,Indore,,1103,-276,3,Furniture,Chairs,,KM-16720,credit_card,,0,90004,13.98
+B-25664,20-05-2018,Pratyusmita,Bihar,Patna,,55,-39,4,Clothing,Stole,,KM-16720,credit_card,,0.2,90004,25.824
+B-25665,21-05-2018,Chayanika,Kerala ,Thiruvananthapuram,,150,13,4,Clothing,Skirt,,KM-16720,credit_card,,0,90004,146.73
+B-25666,22-05-2018,Tanvi,Punjab,Chandigarh,,590,-9,4,Clothing,Saree,,KM-16720,credit_card,,0,90004,79.76
+B-25667,23-05-2018,Anjali,Haryana,Chandigarh,,3500,-8,2,Furniture,Furnishings,,PS-18970,credit_card,,0.3,60610,213.115
+B-25668,24-05-2018,Rhea,Himachal Pradesh,Simla,,460,421,3,Clothing,Trousers,,BS-11590,credit_card,,0.2,85234,1113.024
+B-25669,25-05-2018,Piyali,Sikkim,Gangtok,,133,12,5,Clothing,Stole,,BS-11590,credit_card,,0.2,85234,167.968
+B-25670,25-05-2018,Charika,Goa,Goa,,300,-39,5,Clothing,Kurti,,KD-16270,credit_card,,0,22153,75.88
+B-25671,27-05-2018,Mitali,Nagaland,Kohima,,8000,-129,2,Electronics,Phones,,HM-14980,credit_card,,0.2,10009,4.616
+B-25672,28-05-2018,Akanksha,Andhra Pradesh,Hyderabad,,40,-7,3,Clothing,Stole,,TB-21520,credit_card,,0,49201,19.05
+B-25673,28-05-2018,Arsheen,Gujarat,Ahmedabad,,300,-22,4,Clothing,T-shirt,,JE-15745,credit_card,,0.2,38109,831.936
+B-25674,28-05-2018,Mahima,Maharashtra,Pune,,600,-26,2,Clothing,Kurti,,JE-15745,credit_card,,0.2,38109,97.04
+B-25675,31-05-2018,Shreya,Madhya Pradesh,Bhopal,,9000,-89,2,Furniture,Furnishings,,JE-15745,credit_card,,0.2,38109,72.784
+B-25676,1/6/2018,Chandni,Rajasthan,Jaipur,,190,-2,2,Clothing,Leggings,,KB-16600,debit_card,,0.8,77041,1.248
+B-25677,2/6/2018,Ekta,West Bengal,Kolkata,,6950,-130,4,Electronics,Phones,,KB-16600,credit_card,,0.6,77041,9.708
+B-25678,3/6/2018,Bathina,Karnataka,Bangalore,,711,-8,4,Clothing,Saree,,KB-16600,credit_card,,0.2,77041,27.24
+B-25679,4/6/2018,Avni,Maharashtra,Mumbai,,496,-79,2,Clothing,Trousers,,JE-15745,credit_card,,0.6,77070,19.3
+B-25680,4/6/2018,Aayushi,Madhya Pradesh,Indore,,389,-83,3,Furniture,Chairs,,SC-20770,credit_card,,0,35601,208.16
+B-25681,4/6/2018,Bhawna,Madhya Pradesh,Indore,,40,16,3,Clothing,Hankerchief,,SC-20770,credit_card,,0,35601,16.74
+B-25682,7/6/2018,Krutika,Bihar,Patna,,149,2,2,Clothing,Skirt,,DN-13690,credit_card,,0,94122,14.9
+B-25683,8/6/2018,Shreya,Kerala ,Thiruvananthapuram,,382,30,3,Clothing,Saree,,DN-13690,credit_card,,0,94122,21.39
+B-25684,9/6/2018,Samiksha,Maharashtra,Mumbai,,637,113,5,Clothing,Saree,,JC-16105,credit_card,,0.2,27707,200.984
+B-25685,10/6/2018,Sheetal,Madhya Pradesh,Indore,,117,14,3,Clothing,Shirt,,CS-12400,debit_card,,0.2,60623,230.376
+B-25686,11/6/2018,Pooja,Himachal Pradesh,Simla,,182,-11,3,Furniture,Bookcases,,PO-18865,credit_card,,0,29203,301.96
+B-25687,11/6/2018,Sanjna,Maharashtra,Mumbai,,880,97,8,Furniture,Furnishings,,PG-18895,credit_card,,0,55901,19.99
+B-25688,11/6/2018,Swetha,Madhya Pradesh,Indore,,154,39,3,Clothing,Hankerchief,,PG-18895,credit_card,,0,55901,6.16
+B-25689,14-06-2018,Bhaggyasree,Maharashtra,Mumbai,,816,-96,3,Electronics,Printers,,GM-14455,credit_card,,0.2,77095,158.368
+B-25690,15-06-2018,Gunjan,Madhya Pradesh,Indore,,4999,-153,3,Electronics,Phones,,JS-15685,credit_card,,0,90036,20.1
+B-25691,16-06-2018,Akancha,Maharashtra,Mumbai,,120,-62,2,Clothing,Trousers,,JS-15685,credit_card,,0.2,90036,73.584
+B-25692,17-06-2018,Rashmi,Madhya Pradesh,Indore,,55,-239,13,Clothing,Hankerchief,,JS-15685,credit_card,,0,90036,6.48
+B-25693,18-06-2018,Parna,Madhya Pradesh,Bhopal,,780,-47,4,Clothing,Saree,,KB-16315,credit_card,,0,55407,12.96
+B-25694,18-06-2018,Subhasmita,Rajasthan,Jaipur,,1590,-6,1,Furniture,Furnishings,,KB-16315,credit_card,,0,55407,53.34
+B-25695,18-06-2018,Suhani,West Bengal,Kolkata,,434,26,11,Clothing,Shirt,,KB-16315,credit_card,,0,55407,32.96
+B-25696,21-06-2018,Noopur,Karnataka,Bangalore,,1061,-36,8,Furniture,Bookcases,,RB-19705,credit_card,,0.7,97206,5.682
+B-25697,22-06-2018,Vijay,Jammu and Kashmir,Kashmir,,50,-44,2,Clothing,Hankerchief,,PN-18775,credit_card,,0,10009,96.53
+B-25698,23-06-2018,Amisha,Tamil Nadu,Chennai,,500,-23,4,Clothing,Shirt,,KD-16345,credit_card,,0.2,94122,51.312
+B-25699,24-06-2018,Kritika,Uttar Pradesh,Lucknow,,760,-63,2,Electronics,Electronic Games,,ER-13855,credit_card,,0,55106,77.88
+B-25700,25-06-2018,Shubhi,Maharashtra,Mumbai,,250,-7,1,Electronics,Electronic Games,,RB-19465,credit_card,,0.2,60610,64.624
+B-25701,26-06-2018,Maithilee,Madhya Pradesh,Indore,,790,-92,8,Furniture,Furnishings,,RB-19465,credit_card,,0.2,60610,95.976
+B-25702,27-06-2018,Shaily,Maharashtra,Mumbai,,8500,-87,4,Electronics,Phones,,RB-19465,credit_card,,0.8,60610,1.788
+B-25703,28-06-2018,Ekta,Madhya Pradesh,Indore,,200,0,4,Clothing,T-shirt,,GZ-14470,credit_card,,0,55901,23.92
+B-25704,29-06-2018,Riya,Maharashtra,Mumbai,,945,-42,1,Electronics,Printers,,LC-16870,credit_card,,0.2,80013,238.896
+B-25705,30-06-2018,Shweta,Madhya Pradesh,Indore,,6500,-66,5,Electronics,Phones,,LC-16870,credit_card,,0.2,80013,102.36
+B-25706,1/7/2018,Swetlana,Goa,Goa,,200,-8,2,Clothing,Saree,,LC-16870,debit_card,,0.7,80013,36.882
+B-25707,1/7/2018,Shivani,Maharashtra,Mumbai,,400,-6,4,Clothing,Saree,,JM-15250,credit_card,,0.2,28205,74.112
+B-25708,1/7/2018,Kishwar,Madhya Pradesh,Indore,,10000,-23,1,Electronics,Phones,,JM-15250,credit_card,,0.2,28205,27.992
+B-25709,1/7/2018,Aakanksha,Madhya Pradesh,Indore,,300,13,1,Clothing,T-shirt,,JM-15250,credit_card,,0.2,28205,3.304
+B-25710,5/7/2018,Megha,Maharashtra,Pune,,500,-26,4,Clothing,Saree,,PA-19060,credit_card,,0.2,60462,339.96
+B-25711,6/7/2018,Sakshi,Madhya Pradesh,Bhopal,,460,-41,4,Clothing,Saree,,CV-12805,credit_card,,0,10035,41.96
+B-25712,7/7/2018,Adhvaita,Rajasthan,Jaipur,,27,-25,2,Clothing,Stole,,CL-12565,credit_card,,0,50322,75.96
+B-25713,8/7/2018,Raksha,West Bengal,Kolkata,,245,-78,2,Electronics,Printers,,CL-12565,credit_card,,0,50322,27.24
+B-25714,9/7/2018,Stuti,Karnataka,Bangalore,,211,-105,2,Clothing,Saree,,RC-19960,credit_card,,0.2,43229,40.096
+B-25715,10/7/2018,Srishti,Jammu and Kashmir,Kashmir,,350,-2,2,Clothing,Saree,,RC-19960,credit_card,,0.2,43229,4.72
+B-25716,11/7/2018,Surabhi,Tamil Nadu,Chennai,,28,-26,2,Clothing,Stole,,RC-19960,credit_card,,0.2,43229,23.976
+B-25717,12/7/2018,Manshul,Uttar Pradesh,Lucknow,,512,-225,5,Clothing,Saree,,RC-19960,debit_card,,0.2,43229,130.464
+B-25718,12/7/2018,Anjali,Maharashtra,Mumbai,,925,-447,5,Electronics,Electronic Games,,DK-13090,credit_card,,0,98103,787.53
+B-25719,12/7/2018,Rashmi,Madhya Pradesh,Indore,,238,20,2,Clothing,Saree,,GG-14650,credit_card,,0.7,37620,157.794
+B-25720,15-07-2018,Namrata,Punjab,Chandigarh,,3500,-47,8,Electronics,Phones,,SC-20725,credit_card,,0,19805,47.04
+B-25721,16-07-2018,Anchal,Haryana,Chandigarh,,269,111,3,Clothing,Trousers,,SC-20725,credit_card,,0,19805,30.84
+B-25722,17-07-2018,Inderpreet,Himachal Pradesh,Simla,,200,-60,4,Furniture,Bookcases,,SC-20725,credit_card,,0,19805,226.56
+B-25723,18-07-2018,Wale,Maharashtra,Mumbai,,44,-8,3,Clothing,Stole,,SC-20725,credit_card,,0,19805,115.02
+B-25724,19-07-2018,Sheetal,Madhya Pradesh,Indore,,100,0,1,Clothing,Leggings,,SC-20725,credit_card,,0,19805,68.04
+B-25725,20-07-2018,Anisha,Nagaland,Kohima,,150,-4,2,Clothing,Skirt,,AD-10180,credit_card,,0.3,77041,600.558
+B-25726,21-07-2018,Kiran,Maharashtra,Mumbai,,165,-10,2,Clothing,T-shirt,,PF-19165,credit_card,,0.5,61701,617.7
+B-25727,22-07-2018,Turumella,Madhya Pradesh,Indore,,355,-103,3,Furniture,Chairs,,TS-21610,credit_card,,0.7,85023,2.388
+B-25728,22-07-2018,Ameesha,Maharashtra,Pune,,490,3,1,Clothing,Shirt,,TS-21610,credit_card,,0.2,85023,243.992
+B-25729,22-07-2018,Madhulika,Madhya Pradesh,Bhopal,,823,-18,7,Furniture,Chairs,,LS-16975,credit_card,,0.2,90004,81.424
+B-25730,22-07-2018,Rishabh,Rajasthan,Jaipur,,845,4,1,Clothing,Saree,,LS-16975,credit_card,,0,90004,238.56
+B-25731,26-07-2018,Akash,West Bengal,Kolkata,,457,-41,4,Clothing,Saree,,DW-13585,credit_card,,0.4,43229,59.97
+B-25732,27-07-2018,Anubhaw,Karnataka,Bangalore,,254,-21,7,Clothing,Skirt,,DW-13585,debit_card,,0.2,43229,78.304
+B-25733,28-07-2018,Dhirajendu,Maharashtra,Mumbai,,25,-2,5,Clothing,Hankerchief,,DW-13585,credit_card,,0.2,43229,21.456
+B-25734,29-07-2018,Pranav,Madhya Pradesh,Indore,,174,-70,3,Electronics,Accessories,,LC-16885,credit_card,,0,95661,20.04
+B-25735,30-07-2018,Arindam,Uttar Pradesh,Lucknow,,960,-206,3,Clothing,Saree,,LC-16885,debit_card,,0,95661,35.44
+B-25736,31-07-2018,Akshat,Maharashtra,Mumbai,,210,-13,3,Clothing,Leggings,,LC-16885,credit_card,,0,95661,11.52
+B-25737,1/8/2018,Shubham,Madhya Pradesh,Indore,,310,-6,4,Clothing,Leggings,,LC-16885,credit_card,,0,95661,4.02
+B-25738,2/8/2018,Ayush,Punjab,Chandigarh,,40,-6,2,Clothing,Hankerchief,,LC-16885,credit_card,,0.2,95661,76.176
+B-25739,3/8/2018,Daksh,Haryana,Chandigarh,,1279,-640,8,Electronics,Printers,,LC-16885,credit_card,,0,95661,65.88
+B-25740,3/8/2018,Rane,Maharashtra,Mumbai,,290,-3,2,Clothing,Saree,,LC-16885,credit_card,,0,95661,43.12
+B-25741,3/8/2018,Navdeep,Madhya Pradesh,Indore,,4500,-50,7,Electronics,Phones,,JD-15895,credit_card,,0.2,19140,82.8
+B-25742,3/8/2018,Ashwin,Goa,Goa,,168,-10,3,Electronics,Accessories,,SH-19975,credit_card,,0,94122,8.82
+B-25743,7/8/2018,Aman,Nagaland,Kohima,,1327,318,8,Furniture,Chairs,,SH-19975,credit_card,,0,94122,10.86
+B-25744,8/8/2018,Devendra,Andhra Pradesh,Hyderabad,,4500,-117,5,Electronics,Phones,,SH-19975,credit_card,,0,94122,143.7
+B-25745,9/8/2018,Kartik,Gujarat,Ahmedabad,,115,25,1,Electronics,Accessories,,SG-20080,credit_card,,0,64055,839.43
+B-25746,10/8/2018,Shivam,Maharashtra,Pune,,668,-31,3,Electronics,Printers,,HA-14920,credit_card,,0,91104,671.93
+B-25747,11/8/2018,Harsh,Madhya Pradesh,Bhopal,,227,102,8,Electronics,Accessories,,MG-17680,debit_card,,0.2,43055,93.888
+B-25748,12/8/2018,Nitant,Rajasthan,Jaipur,,34,12,3,Clothing,Hankerchief,,JE-16165,credit_card,,0,53132,384.45
+B-25749,13-08-2018,Ayush,Maharashtra,Mumbai,,229,-23,2,Clothing,Saree,,JE-16165,credit_card,,0,53132,149.97
+B-25750,14-08-2018,Priyanshu,Madhya Pradesh,Indore,,540,-3,3,Clothing,Saree,,JE-16165,credit_card,,0,53132,1951.84
+B-25751,14-08-2018,Nishant,Maharashtra,Mumbai,,269,-86,2,Electronics,Electronic Games,,JE-16165,credit_card,,0,53132,171.55
+B-25752,14-08-2018,Vaibhav,Madhya Pradesh,Indore,,1250,-21,3,Furniture,Furnishings,,TW-21025,credit_card,,0.2,85254,157.92
+B-25753,17-08-2018,Shivam,Uttar Pradesh,Lucknow,,105,46,2,Clothing,Stole,,TW-21025,credit_card,,0.2,85254,203.184
+B-25754,18-08-2018,Akshay,Bihar,Patna,,450,-90,3,Electronics,Printers,,SP-20650,credit_card,,0,95123,58.38
+B-25755,19-08-2018,Shourya,Kerala ,Thiruvananthapuram,,121,-17,3,Furniture,Furnishings,,SP-20650,credit_card,,0,95123,105.52
+B-25756,20-08-2018,Mohan,Maharashtra,Mumbai,,44,-26,3,Clothing,Hankerchief,,SP-20650,debit_card,,0,95123,80.88
+B-25757,21-08-2018,Mohit,Madhya Pradesh,Indore,,70,-4,3,Clothing,Hankerchief,,NK-18490,credit_card,,0,98105,6.63
+B-25758,22-08-2018,Shubham,Himachal Pradesh,Simla,,396,-31,9,Clothing,Saree,,DB-13060,credit_card,,0.2,98115,457.568
+B-25759,23-08-2018,Soumya,Sikkim,Gangtok,,97,-62,2,Clothing,Trousers,,NP-18670,debit_card,,0,73034,14.62
+B-25760,24-08-2018,Pooja,Goa,Goa,,110,-68,4,Clothing,Saree,,NP-18670,credit_card,,0,73034,944.93
+B-25761,25-08-2018,Surabhi,Maharashtra,Mumbai,,312,-312,7,Furniture,Chairs,,TT-21070,credit_card,,0,90045,5.98
+B-25762,26-08-2018,Anudeep,Madhya Pradesh,Indore,,90,-6,2,Clothing,Skirt,,EM-13960,credit_card,,0.2,19134,54.384
+B-25763,27-08-2018,Noshiba,Gujarat,Ahmedabad,,0,-3,1,Clothing,Hankerchief,,RD-19900,credit_card,,0,88220,28.4
+B-25764,28-08-2018,Sanjova,Maharashtra,Pune,,750,23,8,Clothing,Skirt,,MJ-17740,credit_card,,0.2,98115,27.68
+B-25765,29-08-2018,Meghana,Madhya Pradesh,Bhopal,,534,0,3,Clothing,Saree,,BM-11140,credit_card,,0.2,78207,9.936
+B-25766,30-08-2018,Surabhi,Rajasthan,Jaipur,,30,-5,5,Clothing,Stole,,BM-11140,credit_card,,0.4,78207,8159.952
+B-25767,31-08-2018,Ashmeet,West Bengal,Kolkata,,690,-23,2,Clothing,Saree,,BM-11140,credit_card,,0.2,78207,275.928
+B-25768,1/9/2018,Shreyoshe,Karnataka,Bangalore,,0,3,1,Clothing,Hankerchief,,BM-11140,credit_card,,0.3,78207,1740.06
+B-25769,2/9/2018,Surbhi,Maharashtra,Mumbai,,24,-1,2,Clothing,Hankerchief,,BM-11140,credit_card,,0.2,78207,32.064
+B-25770,2/9/2018,Sakshi,Madhya Pradesh,Indore,,56,18,2,Clothing,Hankerchief,,BM-11140,credit_card,,0.8,78207,177.98
+B-25771,2/9/2018,Vaibhavi,Uttar Pradesh,Lucknow,,406,126,2,Clothing,Saree,,BM-11140,credit_card,,0.2,78207,143.976
+B-25772,2/9/2018,Sanjana,Bihar,Patna,,624,37,2,Electronics,Electronic Games,,CS-12130,credit_card,,0,90004,20.94
+B-25773,6/9/2018,Shreya,Kerala ,Thiruvananthapuram,,101,18,9,Clothing,Skirt,,CS-12130,credit_card,,0,90004,110.96
+B-25774,7/9/2018,Snehal,Punjab,Chandigarh,,1389,680,7,Clothing,Saree,,CS-12130,credit_card,,0.2,90004,340.144
+B-25775,8/9/2018,Duhita,Haryana,Chandigarh,,651,169,5,Electronics,Printers,,JB-15400,credit_card,,0.8,60623,52.448
+B-25776,9/9/2018,Mousam,Maharashtra,Mumbai,,13,-1,3,Clothing,Hankerchief,,JB-15400,debit_card,,0.2,60623,20.16
+B-25777,10/9/2018,Aditi,Madhya Pradesh,Indore,,1021,-48,4,Electronics,Electronic Games,,SJ-20500,credit_card,,0.8,77036,97.264
+B-25778,11/9/2018,Surabhi,Maharashtra,Mumbai,,450,-22,5,Clothing,Saree,,JE-15745,credit_card,,0.3,43055,396.802
+B-25779,12/9/2018,Savi,Madhya Pradesh,Indore,,9500,-43,6,Electronics,Phones,,JE-15745,debit_card,,0.2,43055,15.88
+B-25780,13-09-2018,Teena,Andhra Pradesh,Hyderabad,,288,-180,4,Furniture,Chairs,,JK-15640,debit_card,,0,10009,3.28
+B-25781,14-09-2018,Rutuja,Gujarat,Ahmedabad,,270,9,2,Clothing,T-shirt,,DK-13150,credit_card,,0.2,62521,24.816
+B-25782,15-09-2018,Aayushi,Maharashtra,Mumbai,,148,72,7,Clothing,T-shirt,,DK-13150,credit_card,,0.2,62521,408.744
+B-25783,15-09-2018,Shivangi,Madhya Pradesh,Indore,,245,-78,3,Clothing,Saree,,RM-19675,debit_card,,0,71203,503.96
+B-25784,15-09-2018,Rohit,Rajasthan,Jaipur,,19,-15,3,Clothing,Hankerchief,,RM-19675,credit_card,,0,71203,149.95
+B-25785,15-09-2018,Ayush,West Bengal,Kolkata,,224,-81,3,Furniture,Chairs,,RM-19675,credit_card,,0,71203,29
+B-25786,19-09-2018,Abhishek,Karnataka,Bangalore,,580,-42,2,Furniture,Chairs,,SK-19990,credit_card,,0,6824,7.16
+B-25787,20-09-2018,Asish,Jammu and Kashmir,Kashmir,,145,-104,5,Furniture,Chairs,,FM-14290,debit_card,,0,90032,176.8
+B-25788,21-09-2018,Dinesh,Tamil Nadu,Chennai,,550,-33,2,Furniture,Chairs,,AM-10360,credit_card,,0.2,75051,37.224
+B-25789,22-09-2018,Akshay,Uttar Pradesh,Lucknow,,70,-1,2,Clothing,Hankerchief,,AM-10360,credit_card,,0.2,75051,20.016
+B-25790,23-09-2018,Sajal,Bihar,Patna,,240,-2,2,Clothing,T-shirt,,MP-17470,debit_card,,0.2,10035,899.136
+B-25791,24-09-2018,Avish,Kerala ,Thiruvananthapuram,,860,-21,1,Electronics,Electronic Games,,MP-17470,debit_card,,0,10035,71.76
+B-25792,24-09-2018,Abhishek,Maharashtra,Mumbai,,385,-77,11,Furniture,Furnishings,,MP-17470,credit_card,,0,10035,51.84
+B-25793,24-09-2018,Siddharth,Madhya Pradesh,Indore,,294,138,2,Electronics,Printers,,MP-17470,debit_card,,0.2,10035,626.352
+B-25794,24-09-2018,Aditya,Himachal Pradesh,Simla,,444,-200,4,Electronics,Phones,,MP-17470,credit_card,,0,10035,19.9
+B-25795,24-09-2018,Sukant,Sikkim,Gangtok,,785,52,2,Electronics,Phones,,MZ-17515,credit_card,,0,92374,14.28
+B-25796,24-09-2018,Sukrith,Maharashtra,Mumbai,,258,-27,2,Electronics,Phones,,CB-12025,credit_card,,0.2,45011,7.408
+B-25797,30-09-2018,Sauptik,Madhya Pradesh,Indore,,83,-48,1,Furniture,Bookcases,,CB-12025,credit_card,,0.2,45011,6.048
+B-25798,1/10/2018,Shishu,Andhra Pradesh,Hyderabad,,166,-113,4,Electronics,Accessories,,VM-21685,credit_card,,0,7090,46.26
+B-25799,1/10/2018,Divyansh,Gujarat,Ahmedabad,,934,-916,7,Electronics,Electronic Games,,FH-14365,credit_card,,0.7,19120,2.946
+B-25800,1/10/2018,Ishit,Maharashtra,Pune,,11,-2,4,Clothing,Hankerchief,,FH-14365,credit_card,,0.2,19120,16.056
+B-25801,1/10/2018,Aryan,Madhya Pradesh,Bhopal,,41,6,5,Clothing,Skirt,,MB-17305,credit_card,,0.2,44312,21.744
+B-25802,5/10/2018,Yash,Maharashtra,Mumbai,,344,-34,3,Clothing,Saree,,BS-11755,debit_card,,0.5,80219,218.75
+B-25803,5/10/2018,Shivanshu,Madhya Pradesh,Indore,,1030,206,8,Electronics,Printers,,BS-11755,credit_card,,0.2,80219,2.6
+B-25804,5/10/2018,Sudheer,Karnataka,Bangalore,,516,69,4,Furniture,Bookcases,,LC-17140,credit_card,,0.8,75220,66.284
+B-25805,5/10/2018,Ankit,Maharashtra,Mumbai,,123,17,3,Furniture,Furnishings,,HK-14890,credit_card,,0.2,37064,35.168
+B-25806,6/10/2018,Dhanraj,Madhya Pradesh,Indore,,610,-66,2,Furniture,Tables,,LE-16810,credit_card,,0.2,90604,444.768
+B-25807,7/10/2018,Vipul,Uttar Pradesh,Lucknow,,74,29,3,Clothing,Stole,,JH-15985,credit_card,,0,48601,83.92
+B-25808,8/10/2018,Apsingekar,Bihar,Patna,,24,1,2,Clothing,Hankerchief,,JH-15985,credit_card,,0,48601,131.98
+B-25809,9/10/2018,Suman,Kerala ,Thiruvananthapuram,,14,2,1,Clothing,Hankerchief,,JH-15985,credit_card,,0,48601,15.92
+B-25810,10/10/2018,Nripraj,Punjab,Chandigarh,,656,-36,2,Furniture,Bookcases,,JH-15985,credit_card,,0,48601,52.29
+B-25811,10/10/2018,Utsav,Maharashtra,Mumbai,,832,0,3,Clothing,Trousers,,JH-15985,credit_card,,0,48601,91.99
+B-25812,10/10/2018,Kshitij,Madhya Pradesh,Indore,,27,-15,1,Clothing,Stole,,MS-17980,debit_card,,0.2,75220,20.8
+B-25813,10/10/2018,Hrisheekesh,Maharashtra,Mumbai,,143,-124,5,Clothing,Saree,,VW-21775,credit_card,,0.2,44256,23.68
+B-25814,10/10/2018,Swapnil,Madhya Pradesh,Indore,,44,-17,5,Clothing,Saree,,VW-21775,debit_card,,0.5,44256,452.45
+B-25815,10/10/2018,Harsh,Nagaland,Kohima,,45,-2,4,Clothing,Shirt,,VW-21775,credit_card,,0.4,44256,62.982
+B-25816,12/10/2018,Mane,Andhra Pradesh,Hyderabad,,16,-1,1,Clothing,Saree,,VW-21775,credit_card,,0.7,44256,1188
+B-25817,13-10-2018,Praneet,Maharashtra,Mumbai,,37,-5,3,Clothing,T-shirt,,VW-21775,credit_card,,0.2,44256,89.584
+B-25818,14-10-2018,Sandeep,Madhya Pradesh,Indore,,17,-12,5,Clothing,Skirt,,JH-15910,credit_card,,0,90032,93.06
+B-25819,15-10-2018,Ankur,Madhya Pradesh,Bhopal,,929,-93,9,Clothing,Saree,,JH-15910,credit_card,,0.2,90032,302.376
+B-25820,16-10-2018,Dheeraj,Rajasthan,Jaipur,,342,-103,4,Electronics,Electronic Games,,JB-15925,debit_card,,0.2,43017,5.584
+B-25821,16-10-2018,Ajay,West Bengal,Kolkata,,1263,-56,5,Clothing,Trousers,,JB-15925,credit_card,,0.2,43017,22.704
+B-25822,18-10-2018,Tejas,Karnataka,Bangalore,,674,-187,2,Furniture,Tables,,JB-15925,credit_card,,0.7,43017,19.776
+B-25823,18-10-2018,Rohan,Maharashtra,Mumbai,,32,6,3,Clothing,Shirt,,JB-15925,credit_card,,0.2,43017,72.704
+B-25824,20-10-2018,Shyam,Madhya Pradesh,Indore,,79,36,4,Clothing,Shirt,,JB-15925,credit_card,,0.7,43017,479.988
+B-25825,21-10-2018,Kartik,Madhya Pradesh,Indore,,20,-2,1,Electronics,Accessories,,JB-15925,credit_card,,0.2,43017,27.168
+B-25826,22-10-2018,Tanushree,Maharashtra,Mumbai,,64,-7,3,Clothing,Saree,,DS-13180,credit_card,,0,48227,2.2
+B-25827,23-10-2018,Sheetal,Madhya Pradesh,Indore,,230,-3,2,Clothing,Skirt,,DS-13180,credit_card,,0,48227,622.45
+B-25828,24-10-2018,Nikita,Punjab,Chandigarh,,327,-39,1,Electronics,Phones,,DS-13180,credit_card,,0,48227,21.98
+B-25829,25-10-2018,Apoorva,Haryana,Chandigarh,,290,-25,2,Clothing,Shirt,,VD-21670,credit_card,,0.2,38401,161.568
+B-25830,26-10-2018,Aastha,Himachal Pradesh,Simla,,760,-50,1,Clothing,Saree,,VD-21670,credit_card,,0.2,38401,389.696
+B-25831,27-10-2018,Mahima,Sikkim,Gangtok,,730,-25,3,Clothing,Saree,,EA-14035,credit_card,,0.7,28205,18.648
+B-25832,28-10-2018,Harshita,Maharashtra,Mumbai,,690,-27,3,Electronics,Accessories,,CS-12400,debit_card,,0.45,33614,233.86
+B-25833,29-10-2018,Krishna,Madhya Pradesh,Indore,,523,204,7,Clothing,Trousers,,CS-12400,credit_card,,0.45,33614,620.6145
+B-25834,29-10-2018,Ananya,Andhra Pradesh,Hyderabad,,440,-3,1,Clothing,Saree,,CS-12400,debit_card,,0.7,33614,5.328
+B-25835,29-10-2018,Moumita,Gujarat,Ahmedabad,,243,-14,2,Furniture,Chairs,,CS-12400,credit_card,,0.2,33614,258.072
+B-25836,29-10-2018,Arti,Maharashtra,Pune,,1625,-77,3,Electronics,Phones,,CS-12400,credit_card,,0.2,33614,617.976
+B-25837,29-10-2018,Palak,Maharashtra,Mumbai,,1096,-658,7,Electronics,Electronic Games,,DB-13120,credit_card,,0,95051,10.56
+B-25838,29-10-2018,Sanjana,Madhya Pradesh,Indore,,545,-73,11,Electronics,Phones,,KL-16645,credit_card,,0.2,60610,25.92
+B-25839,30-10-2018,Pranjali,West Bengal,Kolkata,,433,26,3,Electronics,Printers,,KL-16645,credit_card,,0.6,60610,419.68
+B-25840,31-10-2018,Sneha,Karnataka,Bangalore,,245,-3,4,Electronics,Phones,,KL-16645,debit_card,,0.6,60610,11.688
+B-25841,1/11/2018,Ashvini,Maharashtra,Mumbai,,155,56,3,Furniture,Furnishings,,KL-16645,credit_card,,0.2,60610,31.984
+B-25842,2/11/2018,Sheetal,Madhya Pradesh,Indore,,148,52,5,Clothing,Stole,,KL-16645,credit_card,,0.5,60610,177.225
+B-25843,3/11/2018,Mrunal,Maharashtra,Mumbai,,860,-55,6,Clothing,Saree,,KL-16645,credit_card,,0.6,60610,4.044
+B-25844,3/11/2018,Swati,Madhya Pradesh,Indore,,134,42,2,Furniture,Chairs,,KL-16645,credit_card,,0.2,60610,7.408
+B-25845,3/11/2018,Snel,Kerala ,Thiruvananthapuram,,5100,7,2,Furniture,Furnishings,,DW-13480,credit_card,,0,55044,2001.86
+B-25846,3/11/2018,Soodesh,Punjab,Chandigarh,,15000,137,3,Electronics,Phones,,DW-13480,credit_card,,0,55044,166.72
+B-25847,3/11/2018,Aniket,Haryana,Chandigarh,,264,-30,3,Furniture,Furnishings,,DW-13480,credit_card,,0,55044,47.88
+B-25848,3/11/2018,Rohan,Himachal Pradesh,Simla,,654,-2,4,Clothing,Shirt,,DW-13480,credit_card,,0,55044,1503.25
+B-25849,4/11/2018,K,Sikkim,Gangtok,,381,-13,2,Clothing,Saree,,DW-13480,credit_card,,0,55044,25.92
+B-25850,5/11/2018,Abhishek,Goa,Goa,,332,-503,3,Electronics,Printers,,LH-17155,debit_card,,0.2,94109,321.568
+B-25851,6/11/2018,Kushal,Nagaland,Kohima,,1829,-56,6,Furniture,Tables,,KC-16540,credit_card,,0,92037,7.61
+B-25852,7/11/2018,Soumyabrata,Andhra Pradesh,Hyderabad,,17,6,1,Clothing,Stole,,KC-16540,debit_card,,0,92037,3347.37
+B-25853,8/11/2018,Gaurav,Gujarat,Ahmedabad,,357,139,2,Clothing,Saree,,DL-13315,credit_card,,0,10024,80.58
+B-25854,8/11/2018,Shubham,Maharashtra,Pune,,510,21,3,Clothing,T-shirt,,DL-13315,credit_card,,0,10024,361.92
+B-25855,8/11/2018,Abhijeet,Madhya Pradesh,Bhopal,,387,-213,5,Clothing,Saree,,DR-12880,credit_card,,0.6,60623,12.132
+B-25856,10/11/2018,Abhijeet,Maharashtra,Mumbai,,1455,-1,4,Clothing,Kurti,,DR-12880,credit_card,,0.2,60623,82.368
+B-25857,10/11/2018,Anand,Madhya Pradesh,Indore,,352,-345,5,Clothing,Saree,,DR-12880,credit_card,,0.2,60623,53.92
+B-25858,13-11-2018,Swapnil,Maharashtra,Mumbai,,469,-459,3,Electronics,Electronic Games,,DR-12880,credit_card,,0.2,60623,647.904
+B-25859,14-11-2018,Chikku,Madhya Pradesh,Indore,,97,17,2,Clothing,Stole,,CC-12670,credit_card,,0,10009,20.37
+B-25860,15-11-2018,Akshay,Tamil Nadu,Chennai,,149,36,3,Clothing,Stole,,CC-12670,credit_card,,0,10009,221.55
+B-25861,15-11-2018,Aayush,Uttar Pradesh,Lucknow,,360,10,3,Clothing,Skirt,,CC-12670,credit_card,,0.2,10009,17.52
+B-25862,15-11-2018,Amol,Bihar,Patna,,714,56,4,Clothing,Saree,,Dl-13600,credit_card,,0.8,77506,1.624
+B-25863,15-11-2018,Manibalan,Kerala ,Thiruvananthapuram,,75,-25,3,Clothing,Stole,,SB-20290,credit_card,,0.4,77036,3059.982
+B-25864,15-11-2018,Aromal,Maharashtra,Mumbai,,17,-9,3,Clothing,Stole,,SB-20290,debit_card,,0.4,77036,2519.958
+B-25865,15-11-2018,Arun,Madhya Pradesh,Indore,,141,28,7,Furniture,Furnishings,,RC-19825,credit_card,,0.2,60610,328.224
+B-25866,16-11-2018,Komal,Himachal Pradesh,Simla,,76,-72,9,Clothing,Hankerchief,,AH-10210,credit_card,,0,94513,79.9
+B-25867,17-11-2018,Ankit,Sikkim,Gangtok,,632,-316,6,Clothing,Saree,,CB-12535,debit_card,,0.2,27514,14.016
+B-25868,18-11-2018,Vikash,Goa,Goa,,945,-16,6,Clothing,Saree,,PG-18895,credit_card,,0,7960,7.56
+B-25869,19-11-2018,Parakh,Nagaland,Kohima,,7650,-30,1,Electronics,Phones,,CA-12310,credit_card,,0.2,45231,37.208
+B-25870,20-11-2018,Pranav,Andhra Pradesh,Hyderabad,,240,-39,5,Clothing,T-shirt,,CA-12310,credit_card,,0.2,45231,57.576
+B-25871,21-11-2018,Gunjal,Gujarat,Surat,,7200,-49,1,Electronics,Phones,,KH-16690,credit_card,,0,94110,725.84
+B-25872,22-11-2018,Saurabh,Maharashtra,Mumbai,,160,-13,2,Clothing,Skirt,,HA-14920,credit_card,,0,94109,209.93
+B-25873,23-11-2018,Divyeta,Madhya Pradesh,Indore,,167,43,7,Clothing,T-shirt,,HA-14920,credit_card,,0,94109,5.28
+B-25874,24-11-2018,Megha,Rajasthan,Udaipur,,171,14,9,Clothing,Shirt,,HA-14920,credit_card,,0.2,94109,10.92
+B-25875,24-11-2018,Divyeshkumar,Uttar Pradesh,Allahabad,,8900,-6,3,Electronics,Phones,,BB-10990,debit_card,,0,90301,8.82
+B-25876,24-11-2018,Bhosale,Punjab,Amritsar,,116,-4,1,Clothing,Saree,,BB-10990,credit_card,,0,90301,5.98
+B-25877,24-11-2018,Dashyam,Gujarat,Surat,,887,80,3,Electronics,Printers,,AG-10495,credit_card,,0.2,19140,11.648
+B-25878,24-11-2018,Mrinal,Maharashtra,Mumbai,,275,-275,4,Clothing,Saree,,AG-10495,credit_card,,0.2,19140,18.176
+B-25879,24-11-2018,Siddharth,Madhya Pradesh,Indore,,440,7,3,Clothing,Kurti,,AG-10495,credit_card,,0.2,19140,59.712
+B-25880,24-11-2018,Apoorv,Rajasthan,Udaipur,,168,-9,3,Clothing,Saree,,AG-10495,credit_card,,0.2,19140,24.84
+B-25881,25-11-2018,Pooja,Uttar Pradesh,Allahabad,,114,8,3,Electronics,Accessories,,SC-20725,credit_card,,0.8,77070,2.08
+B-25882,26-11-2018,Masurkar,Punjab,Amritsar,,1300,-16,8,Electronics,Printers,,SC-20725,credit_card,,0.2,77070,1114.4
+B-25883,27-11-2018,Saptadeep,Gujarat,Surat,,154,-3,1,Clothing,Skirt,,JO-15280,credit_card,,0.2,90004,1038.84
+B-25884,28-11-2018,Sumeet,Maharashtra,Mumbai,,15485,-7,1,Electronics,Phones,,TB-21520,credit_card,,0.2,97206,141.76
+B-25885,28-11-2018,Shatayu,Madhya Pradesh,Indore,,67,-42,3,Clothing,Stole,,TB-21520,credit_card,,0.2,97206,239.8
+B-25886,28-11-2018,Brijesh,Rajasthan,Udaipur,,322,-193,5,Electronics,Printers,,TB-21520,credit_card,,0.2,97206,31.104
+B-25887,1/12/2018,Vedant,Uttar Pradesh,Allahabad,,115,-39,3,Clothing,Trousers,,AH-10195,debit_card,,0.7,33319,254.058
+B-25888,2/12/2018,Rohan,Punjab,Amritsar,,630,-83,5,Clothing,Kurti,,AH-10195,credit_card,,0.2,33319,194.528
+B-25889,3/12/2018,Abhishek,Gujarat,Surat,,27,-6,4,Clothing,Hankerchief,,AH-10195,debit_card,,0.2,33319,961.48
+B-25890,4/12/2018,Divyansha,Maharashtra,Mumbai,,207,-153,3,Clothing,Saree,,NZ-18565,credit_card,,0.2,43229,19.096
+B-25891,4/12/2018,Shivani,Madhya Pradesh,Indore,,516,-392,8,Furniture,Chairs,,NZ-18565,credit_card,,0.2,43229,18.496
+B-25892,4/12/2018,Aditi,Rajasthan,Udaipur,,70,-2,1,Clothing,Hankerchief,,NZ-18565,credit_card,,0.2,43229,255.984
+B-25893,4/12/2018,Aashna,Uttar Pradesh,Allahabad,,6500,-16,2,Electronics,Phones,,NZ-18565,credit_card,,0.5,43229,86.97
+B-25894,4/12/2018,Monu,Punjab,Amritsar,,6000,-22,1,Furniture,Furnishings,,KL-16555,credit_card,,0.2,80906,300.416
+B-25895,4/12/2018,Sathya,Gujarat,Surat,,49,-31,2,Clothing,Stole,,KL-16555,debit_card,,0.2,80906,230.352
+B-25896,5/12/2018,Aman,Maharashtra,Mumbai,,340,-13,5,Clothing,Leggings,,KL-16555,credit_card,,0.2,80906,218.352
+B-25897,6/12/2018,Rohan,Madhya Pradesh,Indore,,2590,-5,1,Electronics,Accessories,,KL-16555,credit_card,,0.7,80906,78.6
+B-25898,7/12/2018,Abhishek,Rajasthan,Udaipur,,130,-75,5,Clothing,Shirt,,KL-16555,credit_card,,0.2,80906,27.552
+B-25899,8/12/2018,Aishwarya,Uttar Pradesh,Allahabad,,44,-32,3,Clothing,Stole,,JD-15895,credit_card,,0,7109,32.4
+B-25900,9/12/2018,Anand,Punjab,Amritsar,,70,-3,2,Clothing,Hankerchief,,JD-15895,credit_card,,0,7109,1082.48
+B-25901,10/12/2018,Suraj,Gujarat,Surat,,100,-8,2,Clothing,Skirt,,JD-15895,credit_card,,0,7109,56.91
+B-25902,10/12/2018,Ishpreet,Maharashtra,Mumbai,,330,-29,3,Clothing,Shirt,,JD-15895,credit_card,,0,7109,77.6
+B-25903,10/12/2018,Amlan,Madhya Pradesh,Indore,,980,-45,2,Furniture,Chairs,,JD-15895,credit_card,,0,7109,14.28
+B-25904,10/12/2018,Swapnil,Delhi,Delhi,,33,-12,5,Clothing,Hankerchief,,JH-15910,debit_card,,0.5,60623,219.075
+B-25905,11/12/2018,Bhargav,Madhya Pradesh,Delhi,,750,0,3,Clothing,Shirt,,AS-10225,credit_card,,0,10024,26.8
+B-25906,11/12/2018,Abhijit,Delhi,Delhi,,424,-17,9,Furniture,Chairs,,KB-16600,credit_card,,0,48180,9.84
+B-25907,11/12/2018,Jaydeep,Madhya Pradesh,Bhopal,,360,-3,4,Clothing,Saree,,CR-12625,debit_card,,0,8701,45.48
+B-25908,12/12/2018,Pradeep,Delhi,Delhi,,941,-203,3,Furniture,Tables,,CR-12625,credit_card,,0,8701,289.2
+B-25909,13-12-2018,Sujay,Madhya Pradesh,Delhi,,306,-147,3,Clothing,Saree,,SH-20395,credit_card,,0,22204,4.89
+B-25910,14-12-2018,Jay,Delhi,Delhi,,460,-23,2,Furniture,Furnishings,,BP-11185,debit_card,,0.2,80004,15.136
+B-25911,15-12-2018,Phalguni,Madhya Pradesh,Bhopal,,170,-3,2,Clothing,Stole,,BP-11185,credit_card,,0.2,80004,466.768
+B-25912,16-12-2018,Preksha,Delhi,Delhi,,32,-5,5,Clothing,Hankerchief,,BP-11185,credit_card,,0.2,80004,15.232
+B-25913,17-12-2018,Geetanjali,Madhya Pradesh,Delhi,,231,-190,9,Clothing,Hankerchief,,BP-11185,wallet,,0.2,80004,6.264
+B-25914,18-12-2018,Kajal,Delhi,Delhi,,220,-15,4,Clothing,Kurti,,TS-21205,credit_card,,0,7601,87.54
+B-25915,19-12-2018,Sukruta,Punjab,Amritsar,,970,-45,4,Clothing,Saree,,AG-10525,credit_card,,0.2,33710,178.384
+B-25916,20-12-2018,Utkarsh,Gujarat,Surat,,470,-27,4,Clothing,Saree,,AG-10525,credit_card,,0.2,33710,15.552
+B-25917,21-12-2018,Sanjay,Maharashtra,Mumbai,,186,-141,9,Clothing,Shirt,,SP-20860,credit_card,,0.2,19143,99.136
+B-25918,22-12-2018,Karandeep,Madhya Pradesh,Indore,,126,-63,3,Electronics,Accessories,,NM-18445,credit_card,,0.1,10024,135.882
+B-25919,23-12-2018,Neha,Rajasthan,Udaipur,,9999,0,3,Electronics,Phones,,NM-18445,wallet,,0,10024,3991.98
+B-25920,24-12-2018,Jayanti,Uttar Pradesh,Allahabad,,465,0,2,Electronics,Electronic Games,,NM-18445,voucher,,0,10024,275.94
+B-25921,25-12-2018,Sandra,Punjab,Amritsar,,31,-11,4,Clothing,Stole,,NM-18445,credit_card,,0,10024,360
+B-25922,26-12-2018,Akshata,Gujarat,Surat,,45,-6,1,Clothing,Stole,,NM-18445,credit_card,,0,10024,43.57
+B-25923,27-12-2018,Vishakha,Maharashtra,Mumbai,,191,13,8,Furniture,Furnishings,,FA-14230,credit_card,,0,90805,7.16
+B-25924,28-12-2018,Prajakta,Karnataka,Bangalore,,5484,-100,5,Electronics,Phones,,GK-14620,credit_card,,0.2,92345,251.52
+B-25925,29-12-2018,Shruti,Maharashtra,Mumbai,,81,-51,7,Clothing,Stole,,GK-14620,credit_card,,0,92345,99.99
+B-25926,30-12-2018,Dipali,Madhya Pradesh,Indore,,32,-8,2,Clothing,Stole,,DJ-13510,debit_card,,0.2,37130,15.992
+B-25927,31-12-2018,Shreya,Uttar Pradesh,Lucknow,,654,-12,7,Clothing,Saree,,PO-18850,credit_card,,0.4,19143,290.898
+B-25928,1/1/2019,Smriti,Bihar,Patna,,556,-6,1,Furniture,Chairs,,PO-18850,credit_card,,0.2,19143,54.224
+B-25929,2/1/2019,Girase,Kerala ,Thiruvananthapuram,,669,-38,6,Furniture,Furnishings,,PO-18850,wallet,,0.3,19143,786.744
+B-25930,3/1/2019,Monica,Punjab,Chandigarh,,656,-69,7,Furniture,Furnishings,,PO-18850,credit_card,,0.2,19143,100.24
+B-25931,4/1/2019,Sidharth,Maharashtra,Mumbai,,656,-1,1,Clothing,Leggings,,PO-18850,credit_card,,0.7,19143,37.764
+B-25932,4/1/2019,Bhutekar,Madhya Pradesh,Indore,,250,0,4,Clothing,Skirt,,JL-15850,credit_card,,0.4,19134,82.8
+B-25933,4/1/2019,Shikhar,Maharashtra,Mumbai,,341,-18,4,Clothing,T-shirt,,JL-15850,credit_card,,0.7,19134,20.724
+B-25934,4/1/2019,Rahul,Madhya Pradesh,Indore,,340,-8,1,Clothing,T-shirt,,JL-15850,credit_card,,0.7,19134,4.896
+B-25935,4/1/2019,Sudhir,Nagaland,Kohima,,60,-58,4,Clothing,Hankerchief,,DB-13615,credit_card,,0.2,90045,4.752
+B-25936,5/1/2019,Nikhil,Punjab,Chandigarh,,1650,-275,3,Electronics,Phones,,DB-13615,credit_card,,0.2,90045,959.984
+B-25937,5/1/2019,Ankit,Haryana,Chandigarh,,158,-63,4,Furniture,Chairs,,DB-13615,credit_card,,0.2,90045,14.368
+B-25938,5/1/2019,Shikhar,Himachal Pradesh,Simla,,11,-5,2,Clothing,Hankerchief,,AC-10420,credit_card,,0.2,94122,7.712
+B-25939,5/1/2019,Vineet,Sikkim,Gangtok,,340,20,7,Clothing,Shirt,,AC-10420,credit_card,,0.2,94122,698.352
+B-25940,6/1/2019,Vivek,Goa,Goa,,4950,137,3,Electronics,Phones,,KL-16645,credit_card,,0,84041,4.96
+B-25941,7/1/2019,Jaideep,Nagaland,Kohima,,525,0,4,Clothing,Saree,,JD-15895,voucher,,0.2,19140,17.856
+B-25942,8/1/2019,Ankur,Andhra Pradesh,Hyderabad,,155,212,3,Clothing,Saree,,JD-15895,credit_card,,0.7,19140,509.97
+B-25943,9/1/2019,Shardul,Gujarat,Ahmedabad,,255,-3,5,Clothing,Saree,,JD-15895,voucher,,0.2,19140,30.992
+B-25944,10/1/2019,Syed,Maharashtra,Pune,,565,17,3,Clothing,Shirt,,JD-15895,credit_card,,0.4,19140,71.928
+B-25945,11/1/2019,Mhatre,Madhya Pradesh,Indore,,255,-33,2,Furniture,Chairs,,CS-12130,debit_card,,0.2,78745,88.8
+B-25946,12/1/2019,Saurabh,Andhra Pradesh,Hyderabad,,26,115,1,Furniture,Bookcases,,CC-12550,voucher,,0.2,94122,47.976
+B-25947,13-01-2019,Chetan,Gujarat,Ahmedabad,,566,31,3,Furniture,Bookcases,,TD-20995,credit_card,,0,1852,7.56
+B-25948,13-01-2019,Mukund,Maharashtra,Pune,,29,10,2,Clothing,Stole,,TD-20995,credit_card,,0,1852,24.56
+B-25949,13-01-2019,Shantanu,Maharashtra,Mumbai,,30,-35,1,Furniture,Chairs,,TD-20995,credit_card,,0,1852,12.96
+B-25950,13-01-2019,Shruti,Madhya Pradesh,Indore,,29,-18,7,Clothing,Skirt,,AB-10060,wallet,,0,10009,6.79
+B-25951,13-01-2019,Jesal,West Bengal,Kolkata,,191,51,5,Clothing,Shirt,,AB-10060,credit_card,,0,10009,24.56
+B-25952,13-01-2019,Priyanka,Madhya Pradesh,Indore,,5445,-40,2,Electronics,Phones,,AB-10060,debit_card,,0.2,10009,3.048
+B-25953,14-01-2019,Krutika,Andhra Pradesh,Hyderabad,,48,-8,8,Clothing,Stole,,AB-10060,wallet,,0,10009,49.12
+B-25954,14-01-2019,Trupti,Gujarat,Ahmedabad,,26,-24,1,Clothing,Stole,,AB-10060,voucher,,0.2,10009,4355.168
+B-25955,16-01-2019,Soumya,Maharashtra,Pune,,16,-12,2,Clothing,Stole,,JL-15505,credit_card,,0.2,10035,388.704
+B-25956,17-01-2019,Shreya,Maharashtra,Mumbai,,120,-7,2,Clothing,Leggings,,JL-15505,voucher,,0,10035,8.26
+B-25957,18-01-2019,Mahima,Madhya Pradesh,Indore,,1265,-54,3,Electronics,Electronic Games,,JL-15505,debit_card,,0,10035,17.04
+B-25958,18-01-2019,Aparajita,West Bengal,Kolkata,,168,-51,2,Furniture,Bookcases,,JL-15505,debit_card,,0,10035,34.4
+B-25959,18-01-2019,Muskan,Madhya Pradesh,Indore,,23,-5,7,Clothing,Hankerchief,,HK-14890,credit_card,,0.2,28205,36.24
+B-25960,18-01-2019,Shreya,Andhra Pradesh,Hyderabad,,26,-5,2,Clothing,Stole,,VB-21745,credit_card,,0,31907,647.84
+B-25961,18-01-2019,Surbhi,Gujarat,Ahmedabad,,144,-7,4,Electronics,Electronic Games,,VB-21745,voucher,,0,31907,20.7
+B-25962,19-01-2019,Tejeswini,Maharashtra,Pune,,490,-128,8,Furniture,Bookcases,,KW-16435,wallet,,0,10009,20.7
+B-25963,19-01-2019,Pratiksha,Maharashtra,Mumbai,,260,-48,6,Clothing,Leggings,,KW-16435,wallet,,0.1,10009,488.646
+B-25964,20-01-2019,Oshin,Madhya Pradesh,Indore,,327,114,4,Clothing,Trousers,,KW-16435,voucher,,0,10009,5.56
+B-25965,21-01-2019,Saloni,West Bengal,Kolkata,,1055,264,4,Electronics,Printers,,KW-16435,credit_card,,0,10009,47.12
+B-25966,21-01-2019,Soumya,Rajasthan,Udaipur,,7650,-424,2,Electronics,Phones,,JD-16060,voucher,,0,94109,211.96
+B-25967,21-01-2019,Komal,Uttar Pradesh,Allahabad,,650,-113,4,Clothing,Saree,,MK-17905,credit_card,,0,6040,23.2
+B-25968,21-01-2019,Paromita,Punjab,Amritsar,,1549,-439,4,Electronics,Phones,,MK-17905,debit_card,,0,6040,7.36
+B-25969,21-01-2019,Shreyshi,Gujarat,Surat,,1145,-706,3,Electronics,Phones,,MK-17905,wallet,,0,6040,104.79
+B-25970,22-01-2019,Rhea,Maharashtra,Mumbai,,473,42,4,Furniture,Chairs,,MK-17905,credit_card,,0,6040,1043.92
+B-25971,22-01-2019,Mitali,Madhya Pradesh,Indore,,96,22,5,Clothing,Stole,,GT-14755,credit_card,,0.2,78550,25.92
+B-25972,23-01-2019,Jesslyn,Rajasthan,Udaipur,,18,8,2,Clothing,Hankerchief,,GT-14755,voucher,,0.2,78550,53.424
+B-25973,24-01-2019,Seema,Uttar Pradesh,Allahabad,,187,30,4,Electronics,Accessories,,AG-10900,credit_card,,0.7,85705,8.16
+B-25974,25-01-2019,Manisha,Rajasthan,Udaipur,,83,-81,3,Furniture,Chairs,,AG-10900,wallet,,0.2,85705,1023.936
+B-25975,25-01-2019,Priyanka,Uttar Pradesh,Allahabad,,1130,-154,8,Furniture,Furnishings,,AG-10900,credit_card,,0.2,85705,9.24
+B-25976,25-01-2019,Piyam,Punjab,Amritsar,,155,-5,2,Clothing,Stole,,AG-10900,credit_card,,0.2,85705,479.04
+B-25977,27-01-2019,Aayushi,Gujarat,Surat,,145,-43,7,Clothing,Stole,,MM-18280,wallet,,0.2,62301,99.136
+B-25978,27-01-2019,Parin,Maharashtra,Mumbai,,145,-10,2,Clothing,Stole,,AR-10405,credit_card,,0.3,2038,1488.424
+B-25979,27-01-2019,Shivangi,Madhya Pradesh,Indore,,15,-6,4,Clothing,Hankerchief,,RA-19915,wallet,,0.8,77095,8.652
+B-25980,27-01-2019,Shweta,Rajasthan,Udaipur,,1800,-19,3,Electronics,Electronic Games,,RA-19915,credit_card,,0.2,77095,23.832
+B-25981,28-01-2019,Amruta,Delhi,Delhi,,25,-2,3,Clothing,Hankerchief,,RA-19915,wallet,,0.8,77095,12.176
+B-25982,29-01-2019,Hemangi,Delhi,Delhi,,255,-1,2,Clothing,Skirt,,AS-10285,debit_card,,0,94109,50.96
+B-25983,30-01-2019,Atul,Delhi,Delhi,,155,-7,1,Clothing,Hankerchief,,AS-10285,credit_card,,0.2,94109,49.536
+B-25984,30-01-2019,Kajal,Delhi,Delhi,,656,-7,5,Clothing,Skirt,,LA-16780,voucher,,0,48180,41.9
+B-25985,31-01-2019,Ginny,Madhya Pradesh,Indore,,200,-15,3,Clothing,Trousers,,DO-13435,wallet,,0.45,33024,375.4575
+B-25986,31-01-2019,Shweta,Rajasthan,Udaipur,,700,-14,2,Furniture,Furnishings,,DO-13435,wallet,,0.2,33024,83.976
+B-25987,31-01-2019,Manjiri,Delhi,Delhi,,750,-6,3,Clothing,Saree,,DK-13225,credit_card,,0.7,19140,482.34
+B-25988,31-01-2019,Nirja,Delhi,Delhi,,1069,0,6,Clothing,Saree,,DK-13225,debit_card,,0.2,19140,2.96
+B-25989,1/2/2019,Anjali,Delhi,Delhi,,6500,-91,2,Electronics,Phones,,NG-18430,credit_card,,0.2,45231,2.624
+B-25990,2/2/2019,Mugdha,Delhi,Delhi,,133,-56,2,Furniture,Chairs,,MV-18190,voucher,,0.2,10009,23.36
+B-25991,3/2/2019,Mansi,Madhya Pradesh,Indore,,40,-37,3,Clothing,Stole,,MV-18190,credit_card,,0,10009,39.98
+B-25992,3/2/2019,Gaurav,Rajasthan,Udaipur,,151,0,2,Clothing,Skirt,,JG-15115,wallet,,0.2,98198,246.384
+B-25993,3/2/2019,Harshal,Delhi,Delhi,,1555,-8,2,Clothing,Saree,,JG-15115,wallet,,0,98198,1799.97
+B-25994,3/2/2019,Omkar,Delhi,Delhi,,482,-6,7,Electronics,Electronic Games,,BP-11095,credit_card,,0.8,61604,12.462
+B-25995,4/2/2019,Yohann,Delhi,Delhi,,552,-8,2,Clothing,Skirt,,VP-21730,debit_card,,0.2,89115,75.792
+B-25996,4/2/2019,Prashant,Delhi,Delhi,,655,-124,5,Clothing,Saree,,SS-20140,credit_card,,0,2886,49.96
+B-25997,4/2/2019,Yogesh,Madhya Pradesh,Indore,,255,-5,1,Clothing,Saree,,SS-20140,wallet,,0,2886,12.96
+B-25998,4/2/2019,Anmol,Rajasthan,Udaipur,,556,-56,2,Clothing,Trousers,,HP-14815,wallet,,0,49201,70.12
+B-25999,5/2/2019,Diwakar,Delhi,Delhi,,74,-51,3,Clothing,Stole,,AG-10675,voucher,,0.2,77036,35.952
+B-26000,6/2/2019,Shubham,Delhi,Delhi,,56,0,4,Clothing,Hankerchief,,AG-10675,debit_card,,0.32,77036,2396.2656
+B-26001,7/2/2019,Patil,Delhi,Delhi,,373,-254,6,Electronics,Printers,,AG-10675,credit_card,,0.2,77036,131.136
+B-26002,8/2/2019,Harsh,Delhi,Delhi,,44,-8,3,Clothing,Stole,,AG-10675,voucher,,0.2,77036,57.584
+B-26003,8/2/2019,Hitesh,Madhya Pradesh,Bhopal,,545,-225,11,Clothing,Saree,,LF-17185,credit_card,,0.2,33180,9.568
+B-26004,8/2/2019,Nandita,Rajasthan,Jaipur,,670,15,5,Furniture,Bookcases,,SP-20650,debit_card,,0.2,28403,39.072
+B-26005,8/2/2019,Parnavi,West Bengal,Kolkata,,132,-79,5,Furniture,Furnishings,,RF-19840,credit_card,,0,10024,35.91
+B-26006,9/2/2019,Arpita,Karnataka,Bangalore,,544,16,2,Clothing,Saree,,KH-16510,wallet,,0,94110,179.95
+B-26007,9/2/2019,Shubham,Jammu and Kashmir,Kashmir,,877,395,2,Furniture,Bookcases,,KH-16510,credit_card,,0.2,94110,1199.976
+B-26008,9/2/2019,Kalyani,Tamil Nadu,Chennai,,141,10,4,Clothing,Shirt,,KH-16510,wallet,,0,94110,27.15
+B-26009,10/2/2019,Komal,Uttar Pradesh,Lucknow,,54612,58,3,Electronics,Phones,,KH-16510,credit_card,,0.2,94110,1004.024
+B-26010,11/2/2019,Kartikay,Bihar,Patna,,541,-1,2,Clothing,Leggings,,KH-16510,voucher,,0,94110,9.68
+B-26011,12/2/2019,Bharat,Gujarat,Ahmedabad,,511,-21,2,Electronics,Electronic Games,,KH-16510,credit_card,,0,94110,28.35
+B-26012,13-02-2019,Pearl,Maharashtra,Pune,,123,-82,3,Furniture,Bookcases,,KH-16510,wallet,,0,94110,55.98
+B-26013,13-02-2019,Jahan,Madhya Pradesh,Bhopal,,212,-24,2,Furniture,Chairs,,KH-16510,credit_card,,0.15,94110,1336.829
+B-26014,13-02-2019,Divsha,Rajasthan,Jaipur,,656,-15,12,Clothing,Skirt,,KH-16510,credit_card,,0.2,94110,113.568
+B-26015,14-02-2019,Kasheen,West Bengal,Kolkata,,611,-25,2,Clothing,Saree,,KC-16675,debit_card,,0,98105,139.86
+B-26016,14-02-2019,Hazel,Karnataka,Bangalore,,465,-12,3,Clothing,Stole,,KC-16675,debit_card,,0.2,98105,307.136
+B-26017,14-02-2019,Sonakshi,Jammu and Kashmir,Kashmir,,539,-146,7,Furniture,Furnishings,,CJ-12010,wallet,,0,92646,95.92
+B-26018,14-02-2019,Aarushi,Tamil Nadu,Chennai,,2521,-6,2,Furniture,Furnishings,,PB-19150,credit_card,,0.2,90004,383.8
+B-26019,15-02-2019,Jitesh,Uttar Pradesh,Lucknow,,623,-18,2,Clothing,Saree,,VB-21745,wallet,,0,40475,5.78
+B-26020,16-02-2019,Yogesh,Bihar,Patna,,215,-1,1,Clothing,Shirt,,SP-20860,credit_card,,0,90045,9.32
+B-26021,17-02-2019,Anita,Kerala ,Thiruvananthapuram,,1325,-31,1,Furniture,Bookcases,,SP-20860,credit_card,,0,90045,15.25
+B-26022,18-02-2019,Shrichand,Punjab,Chandigarh,,325,-8,1,Clothing,Kurti,,JE-15745,debit_card,,0.2,80027,196.752
+B-26023,19-02-2019,Mukesh,Haryana,Chandigarh,,223,-3,2,Clothing,Leggings,,MP-17965,debit_card,,0,1841,56.56
+B-26024,19-02-2019,Vandana,Himachal Pradesh,Simla,,3246,-56,2,Electronics,Phones,,MP-17965,credit_card,,0,1841,32.7
+B-26025,19-02-2019,Bhavna,Sikkim,Gangtok,,2653,0,2,Electronics,Phones,,NF-18385,credit_card,,0,39212,866.4
+B-26026,19-02-2019,Kanak,Goa,Goa,,325,-5,2,Clothing,Saree,,JM-15265,debit_card,,0,48187,28.4
+B-26027,20-02-2019,Sagar,Nagaland,Kohima,,245,21,3,Clothing,Shirt,,JM-15265,wallet,,0,48187,287.92
+B-26028,20-02-2019,Manju,Andhra Pradesh,Hyderabad,,332,5,2,Electronics,Electronic Games,,SD-20485,credit_card,,0,10801,69.99
+B-26029,20-02-2019,Ramesh,Gujarat,Ahmedabad,,32,7,3,Clothing,Hankerchief,,KH-16630,credit_card,,0.2,78207,6.672
+B-26030,21-02-2019,Sarita,Maharashtra,Pune,,65,-4,6,Clothing,Hankerchief,,RB-19795,credit_card,,0.7,28052,189.588
+B-26031,22-02-2019,Deepak,Madhya Pradesh,Bhopal,,221,-15,2,Electronics,Electronic Games,,RB-19795,credit_card,,0.2,28052,408.744
+B-26032,22-02-2019,Monisha,Rajasthan,Jaipur,,1361,197,9,Furniture,Bookcases,,RB-19795,debit_card,,0.2,28052,291.96
+B-26033,22-02-2019,Atharv,West Bengal,Kolkata,,761,266,9,Electronics,Electronic Games,,RB-19795,debit_card,,0.2,28052,4.768
+B-26034,23-02-2019,Vini,Karnataka,Bangalore,,76,27,5,Clothing,Stole,,DB-13060,credit_card,,0,1852,714.3
+B-26035,23-02-2019,Pinky,Jammu and Kashmir,Kashmir,,545,15,6,Clothing,T-shirt,,MK-18160,credit_card,,0.7,32216,4.812
+B-26036,23-02-2019,Bhishm,Maharashtra,Mumbai,,48,-2,2,Clothing,Hankerchief,,MK-18160,debit_card,,0.2,32216,247.8
+B-26037,23-02-2019,Hitika,Madhya Pradesh,Indore,,4565,-235,6,Electronics,Printers,,PO-19180,credit_card,,0.3,60623,1007.979
+B-26038,24-02-2019,Pooja,Bihar,Patna,,230,-27,1,Furniture,Chairs,,PO-19180,debit_card,,0.2,60623,313.488
+B-26039,25-02-2019,Hemant,Kerala ,Thiruvananthapuram,,655,-56,5,Clothing,Kurti,,BB-11545,credit_card,,0.2,77070,31.872
+B-26040,26-02-2019,Sahil,Punjab,Chandigarh,,65,-20,2,Clothing,Hankerchief,,CV-12805,credit_card,,0.1,10024,207.846
+B-26041,27-02-2019,Ritu,Haryana,Chandigarh,,549,-52,3,Electronics,Accessories,,PK-19075,wallet,,0,48227,12.22
+B-26042,28-02-2019,Manish,Himachal Pradesh,Simla,,6145,-114,5,Furniture,Furnishings,,PK-19075,credit_card,,0,48227,194.94
+B-26043,1/3/2019,Amit,Sikkim,Gangtok,,6465,-85,6,Clothing,Trousers,,PK-19075,credit_card,,0,48227,70.95
+B-26044,2/3/2019,Sanjay,Goa,Goa,,424,31,5,Clothing,T-shirt,,PK-19075,credit_card,,0,48227,91.36
+B-26045,3/3/2019,Nidhi,Nagaland,Kohima,,654,22,7,Clothing,T-shirt,,PK-19075,wallet,,0,48227,242.94
+B-26046,4/3/2019,Nishi,Maharashtra,Mumbai,,2145,82,6,Electronics,Accessories,,PK-19075,voucher,,0,48227,22.05
+B-26047,4/3/2019,Ashmi,Madhya Pradesh,Indore,,77,-43,8,Clothing,Stole,,TB-21595,credit_card,,0,47201,2.91
+B-26048,4/3/2019,Parth,Maharashtra,Pune,,72,-46,7,Clothing,Kurti,,RB-19360,credit_card,,0,13021,59.52
+B-26049,5/3/2019,Lisha,Madhya Pradesh,Bhopal,,145,-14,5,Clothing,Leggings,,RB-19360,credit_card,,0,13021,161.94
+B-26050,6/3/2019,Paridhi,Rajasthan,Jaipur,,2145,-23,2,Clothing,Saree,,RB-19360,credit_card,,0,13021,263.88
+B-26051,7/3/2019,Parishi,West Bengal,Kolkata,,214,-65,4,Clothing,Stole,,RB-19360,wallet,,0,13021,30.48
+B-26052,8/3/2019,Ajay,Karnataka,Bangalore,,551,0,3,Clothing,Skirt,,RB-19360,credit_card,,0,13021,9.84
+B-26053,9/3/2019,Kirti,Jammu and Kashmir,Kashmir,,154,-1,3,Clothing,Skirt,,RB-19360,credit_card,,0,13021,35.12
+B-26054,10/3/2019,Mayank,Maharashtra,Mumbai,,5115,-312,5,Clothing,Saree,,EB-13705,wallet,,0.4,44312,284.364
+B-26055,10/3/2019,Yaanvi,Madhya Pradesh,Indore,,4545,-215,2,Electronics,Printers,,EB-13705,debit_card,,0.2,44312,665.408
+B-26056,10/3/2019,Sonal,Bihar,Patna,,352,-53,3,Clothing,Saree,,KH-16630,credit_card,,0,73071,63.88
+B-26057,10/3/2019,Sharda,Kerala ,Thiruvananthapuram,,257,-3,2,Furniture,Bookcases,,SC-20095,credit_card,,0.2,94521,129.568
+B-26058,11/3/2019,Aditya,Punjab,Chandigarh,,80,-19,5,Clothing,Stole,,NF-18385,credit_card,,0.3,62521,747.558
+B-26059,12/3/2019,Rachna,Haryana,Chandigarh,,321,-315,5,Clothing,Saree,,NF-18385,credit_card,,0.2,62521,8.928
+B-26060,13-03-2019,Chirag,Maharashtra,Mumbai,,47,-3,2,Clothing,Stole,,JH-15985,credit_card,,0,98115,103.92
+B-26061,14-03-2019,Anurag,Madhya Pradesh,Indore,,593,213,4,Furniture,Bookcases,,JH-15985,credit_card,,0,98115,899.91
+B-26062,15-03-2019,Tushina,Goa,Goa,,134,-34,2,Furniture,Chairs,,JH-15985,debit_card,,0.2,98115,51.312
+B-26063,15-03-2019,Farah,Nagaland,Kohima,,1709,564,3,Clothing,Trousers,,TN-21040,credit_card,,0.2,85023,23.56
+B-26064,16-03-2019,Ankita,Maharashtra,Mumbai,,323,4,2,Clothing,Saree,,TN-21040,debit_card,,0.5,85023,1272.63
+B-26065,16-03-2019,Nida,Madhya Pradesh,Indore,,22454,-33,4,Electronics,Phones,,TN-21040,credit_card,,0.7,85023,28.485
+B-26066,16-03-2019,Priyanka,Maharashtra,Pune,,643,-45,2,Electronics,Printers,,TN-21040,credit_card,,0.2,85023,185.376
+B-26067,16-03-2019,Tulika,Madhya Pradesh,Bhopal,,204,-276,3,Furniture,Bookcases,,TN-21040,wallet,,0.2,85023,78.272
+B-26068,16-03-2019,Shefali,Rajasthan,Jaipur,,729,-492,5,Furniture,Bookcases,,JS-15940,wallet,,0.6,60068,254.744
+B-26069,17-03-2019,Sanskriti,West Bengal,Kolkata,,541,-24,4,Clothing,Leggings,,DS-13180,credit_card,,0.32,79109,205.3328
+B-26070,18-03-2019,Shruti,Karnataka,Bangalore,,112,-13,4,Clothing,Skirt,,CC-12670,credit_card,,0.8,60610,4.788
+B-26071,19-03-2019,Subhashree,Jammu and Kashmir,Kashmir,,155,-11,5,Clothing,T-shirt,,MH-17785,wallet,,0,11757,55.48
+B-26072,20-03-2019,Sweta,Maharashtra,Mumbai,,2125,9,2,Furniture,Furnishings,,JP-15520,credit_card,,0,94110,340.92
+B-26073,21-03-2019,Pournamasi,Madhya Pradesh,Indore,,3151,-35,7,Clothing,Trousers,,JP-15520,credit_card,,0.15,94110,222.666
+B-26074,21-03-2019,Bharat,Gujarat,Ahmedabad,,53,15,2,Clothing,Stole,,JP-15520,credit_card,,0.2,94110,703.968
+B-26075,21-03-2019,Pearl,Maharashtra,Pune,,165,30,3,Clothing,Stole,,JP-15520,credit_card,,0,94110,92.52
+B-26076,21-03-2019,Jahan,Madhya Pradesh,Bhopal,,211,19,8,Clothing,Stole,,JP-15520,debit_card,,0,94110,62.65
+B-26077,22-03-2019,Divsha,Rajasthan,Jaipur,,106,15,7,Clothing,Hankerchief,,JP-15520,credit_card,,0,94110,94.85
+B-26078,22-03-2019,Kasheen,West Bengal,Kolkata,,14,5,1,Clothing,Hankerchief,,KH-16690,debit_card,,0.2,90008,95.76
+B-26079,22-03-2019,Hazel,Karnataka,Bangalore,,17,7,3,Clothing,Hankerchief,,JE-15475,debit_card,,0,12180,40.2
+B-26080,22-03-2019,Sonakshi,Jammu and Kashmir,Kashmir,,551,14,5,Clothing,Skirt,,JG-15805,credit_card,,0,10024,14.7
+B-26081,22-03-2019,Aarushi,Tamil Nadu,Chennai,,55,-2,1,Clothing,Stole,,JG-15805,debit_card,,0,10024,704.25
+B-26082,23-03-2019,Jitesh,Uttar Pradesh,Lucknow,,20,-9,6,Clothing,Hankerchief,,XP-21865,wallet,,0,92024,9.09
+B-26083,24-03-2019,Yogesh,Bihar,Patna,,322,-193,5,Electronics,Printers,,EM-14065,credit_card,,0,10024,5.96
+B-26084,25-03-2019,Anita,Kerala ,Thiruvananthapuram,,2188,1050,5,Furniture,Bookcases,,EM-14065,wallet,,0,10024,159.98
+B-26085,26-03-2019,Shrichand,Punjab,Chandigarh,,328,-15,3,Electronics,Electronic Games,,MT-18070,wallet,,0,90045,29.6
+B-26086,26-03-2019,Mukesh,Haryana,Chandigarh,,24654,70,7,Electronics,Phones,,MT-18070,credit_card,,0.15,90045,514.165
+B-26087,26-03-2019,Vandana,Himachal Pradesh,Simla,,1455,0,3,Clothing,Saree,,MT-18070,credit_card,,0.2,90045,279.96
+B-26088,26-03-2019,Bhavna,Sikkim,Gangtok,,1556,-90,1,Clothing,Saree,,SA-20830,credit_card,,0.2,60610,2735.952
+B-26089,26-03-2019,Kanak,Goa,Goa,,6466,-31,9,Electronics,Electronic Games,,CW-11905,wallet,,0.2,77340,7.992
+B-26090,27-03-2019,Sagar,Nagaland,Kohima,,1316,-527,7,Electronics,Electronic Games,,CW-11905,credit_card,,0.2,77340,63.984
+B-26091,27-03-2019,Manju,Andhra Pradesh,Hyderabad,,664,4,3,Clothing,Skirt,,CW-11905,wallet,,0.2,77340,70.368
+B-26092,27-03-2019,Ramesh,Gujarat,Ahmedabad,,1454,-5,2,Clothing,Saree,,AJ-10960,debit_card,,0,14609,449.15
+B-26093,27-03-2019,Sarita,Maharashtra,Pune,,1325,-52,3,Furniture,Chairs,,AJ-10960,debit_card,,0,14609,11.07
+B-26094,27-03-2019,Deepak,Madhya Pradesh,Bhopal,,119,43,5,Clothing,T-shirt,,SS-20590,credit_card,,0,98115,93.98
+B-26095,28-03-2019,Monisha,Rajasthan,Jaipur,,765,-153,2,Electronics,Phones,,RO-19780,credit_card,,0.4,38109,189.882
+B-26096,28-03-2019,Atharv,West Bengal,Kolkata,,545,0,2,Clothing,Kurti,,MD-17350,credit_card,,0,72701,105.42
+B-26097,28-03-2019,Vini,Karnataka,Bangalore,,545,-24,2,Clothing,Saree,,SC-20095,debit_card,,0.2,92627,119.616
+B-26098,29-03-2019,Pinky,Jammu and Kashmir,Kashmir,,139,14,3,Clothing,Stole,,SC-20095,credit_card,,0,92627,255.76
+B-26099,30-03-2019,Bhishm,Maharashtra,Mumbai,,220,-19,2,Clothing,Saree,,SC-20095,credit_card,,0.2,92627,241.568
+B-26100,31-03-2019,Hitika,Madhya Pradesh,Indore,,299,-28,3,Electronics,Electronic Games,,SC-20095,credit_card,,0,92627,69.3
